@@ -1,4 +1,4 @@
-<h1 align="center"> <em>FUSER</em>: Feed-Forward Multiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement</h1>
+<h1 align="center"> <em>PointVGGT</em>: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors </h1>
 <div align="center">
     <p>
         <a href="https://scholar.google.com/citations?hl=zh-CN&user=xRN1zIEAAAAJ">Haobo Jiang</a><sup>1</sup>&nbsp;&nbsp;
