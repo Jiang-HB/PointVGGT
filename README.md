@@ -14,10 +14,11 @@
 
 <div align="center">
     <a href="[PROJECT_PAGE_LINK_HERE]">
-        <img src="assets/main.png" width="100%">
+        <img src="teaser.jpg" width="100%">
     </a>
     <p>
-        <i>Moving beyond the conventional “pairwise-then-global” paradigm, FUSER and its diffusion variant, FUSER-DF, achieve state-of-the-art performance with a dramatic runtime reduction from minutes to seconds.</i>
+        <i>PointVGGT enables robust and efficient zero-shot multiview registration across diverse scenarios and sensor types, 
+consistently achieving superior or competitive pose accuracy compared to prior methods across indoor, outdoor, and object-centric benchmarks while running substantially faster.</i>
     </p>
 </div>
 
